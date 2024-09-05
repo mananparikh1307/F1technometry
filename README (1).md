@@ -33,3 +33,5 @@ Spacy \
 Langchain
 
 ## Architecture
+<img width="994" alt="Screenshot 2024-09-05 at 7 19 45 PM" src="https://github.com/user-attachments/assets/a45f418b-ab4b-4373-998e-dd14b3b7c51b">
+
